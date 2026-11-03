@@ -1,0 +1,1 @@
+{"openapi":"3.0.3","info":{"title":"Sample API","version":"1.0"},"paths":{"/api/products":{"get":{"summary":"Товары","responses":{"200":{"description":"OK","content":{"application/json":{"example":[{"id":1,"name":"Книга","price":790}]}}}}}},"/api/ping":{"post":{"responses":{"200":{"description":"OK","content":{"text/plain":{"example":"pong"}}}}}}}}
