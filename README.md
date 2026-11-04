@@ -113,6 +113,6 @@ powershell -File scripts/publish.ps1 -SelfContained
 
 Учебный проект Игоря Цветкова. Тема: **«Разработка программного модуля детерминированной эмуляции API»**.
 
-[Профиль](https://github.com/I-F-E-N-I-X-I) · [Процесс разработки](docs/DEVELOPMENT.md) · [План ручной приёмки](docs/ACCEPTANCE_REVIEW.md)
+[Профиль](https://github.com/I-F-E-N-I-X-I) · [План ручной приёмки](docs/ACCEPTANCE_REVIEW.md)
 
 **English:** Otklik is a Windows desktop HTTP mock server built with C#, WPF and Kestrel. It supports request matching, reproducible response sequences, delays, JSON projects and a limited OpenAPI 3.0 importer. The included test runner exercises both domain logic and real loopback HTTP.
